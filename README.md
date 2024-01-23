@@ -1,6 +1,6 @@
 ### Camilo Rodelo    
 
-<div align="center">Hello! I'm **Camilo Rodelo**, AKA *Azin* by many. I strongly believe that developers are artists 🎨👨‍🎨, and I channel that belief to deliver the best user experiences through my work.
+<div align="center">Hello! I'm Camilo Rodelo, AKA Azin by many. I strongly believe that developers are artists 🎨👨‍🎨, and I channel that belief to deliver the best user experiences through my work.
 
 I graduated as a Web Developer, honing my skills through the Full-stack bootcamp at Henry. During this program, I gained expertise in front-end technologies such as React, Redux Toolkit, and Tailwind CSS. On the back-end, I worked with technologies like Node.js, Express.js, and PostgreSQL. My specialized focus includes front-end development and UX/UI, and I'm well-versed in TypeScript and Next.js.
 
