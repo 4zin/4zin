@@ -7,7 +7,7 @@ I graduated as a Web Developer, honing my skills through the Full-stack bootcamp
 A noteworthy achievement in my career was collaborating on the ground-up development of an e-commerce platform with talented colleagues. Our significant contributions led to the successful approval of the project.</div>
   
 
-- 🌱 I’m currently learning TypeScript and Next.js  
+- 🌱 I also have knowledge on TypeScript and NextJS  
   
 
 <br/>  
